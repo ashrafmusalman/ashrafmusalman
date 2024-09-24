@@ -1,4 +1,4 @@
-![logo](https://github.com/ashrafmusalman/ashrafmusalman/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
+![logo](https://github.com/ashrafmusalman/ashrafmusalman/blob/main/githubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Ashraf Ali Musalman</h1>
 <h3 align="center">A passionate App developer from Nepal</h3>
