@@ -1,4 +1,4 @@
-![logo](https://github.com/ashrafmusalman/ashrafmusalman/blob/main/githubBanner.png)
+![logo](https://github.com/ashrafmusalman/ashrafmusalman/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
 
 <h3 align="center">🚀 App Developer from Nepal | 🔧 DevOps Enthusiast</h3>
 
