@@ -1,20 +1,19 @@
 ![logo](https://github.com/ashrafmusalman/ashrafmusalman/blob/main/githubBanner.png)
 
-<h1 align="center">Hi 👋, I'm Ashraf Ali Musalman</h1>
-<h3 align="center">A passionate App developer from Nepal</h3>
+<h3 align="center">🚀 A passionate App Developer from Nepal</h3>
+<p align="center">🔧 Skilled in DevOps and modern deployment workflows</p>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafmusalman&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafmusalman" /> </p>
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on [Food App](https://github.com/ashrafmusalman/ASHRAF_FOOD)
+- **Languages:** Java, Kotlin, Python  
+- **Mobile:** Android (Jetpack, MVVM, Compose)  
+- **Backend:** Node.js, Firebase  
+- **DevOps:** Docker, Kubernetes, Linux  
+- **Tools:** Git, Postman, Figma
 
-- 🌱 I’m currently learning **Dependency Injection in android**
-
-- 💬 Ask me about **java , kotlin , python ,firebase**
-
-- 📫 How to reach me **khan26494504@gmail.com**
-
-- ⚡ Fun fact **I am funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
