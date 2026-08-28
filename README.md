@@ -34,7 +34,37 @@ DevOps Engineer based in Ahmedabad, India, working at CleanStart. Since 2025, I'
 ## Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,aws,terraform,linux,kafka,redis,githubactions,git,prometheus,grafana,python,bash" />
+
+**Containers & Orchestration**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+
+**Cloud & Infrastructure as Code**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+
+**Event-Driven & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mysql" />
+
+**CI/CD & Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git" />
+
+**Observability**
+<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+
+**Operating Systems & Networking**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,vim" />
+<br/>
+<sub>Process management, systemd, TCP/IP, DNS, VPC networking, security groups</sub>
+
+**Scripting & Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+
 </div>
 
 <br/>
