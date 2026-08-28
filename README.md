@@ -37,18 +37,22 @@ const ashraf = {
 <td width="50%" valign="top">
 
 **Container Orchestration**
+<br/>
 Kubernetes core objects, admission control with Kyverno, local cluster operation with kind/minikube.
 
 **Event-Driven Systems**
+<br/>
 Kafka architecture and replication, KEDA-based autoscaling on Kafka/SQS triggers.
 
 </td>
 <td width="50%" valign="top">
 
 **Caching & Data**
+<br/>
 Redis data structures, persistence, clustering, and caching patterns.
 
 **CI/CD & Systems**
+<br/>
 GitHub Actions / Jenkins pipelines, ArgoCD-based GitOps, Linux process management and OS-level troubleshooting.
 
 </td>
@@ -60,7 +64,6 @@ GitHub Actions / Jenkins pipelines, ArgoCD-based GitOps, Linux process managemen
 ## Stack
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="16.6%">
@@ -111,24 +114,14 @@ GitHub Actions / Jenkins pipelines, ArgoCD-based GitOps, Linux process managemen
 </table>
 
 <sub>Process management · systemd · TCP/IP · DNS · VPC networking · security groups</sub>
-
 </div>
 
 <br/>
 
 ## Pinned Projects
 
-<div align="center">
-
-[![AiFarming](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=AiFarming&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/AiFarming)
-[![Doctor-Appoint-Ment](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Doctor-Appoint-Ment&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Doctor-Appoint-Ment)
-
-[![Hospital-Management-](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Hospital-Management-&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Hospital-Management-)
-[![python-flask-cicd](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=python-flask-cicd&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/python-flask-cicd)
-
-<sub><a href="https://github.com/ashrafmusalman?tab=repositories">→ view all repositories</a></sub>
-
-</div>
+- [AiFarming](https://github.com/ashrafmusalman/AiFarming)
+- [Hospital-Management-](https://github.com/ashrafmusalman/Hospital-Management-)
 
 <br/>
 
@@ -136,10 +129,8 @@ GitHub Actions / Jenkins pipelines, ArgoCD-based GitOps, Linux process managemen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashrafmusalman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashrafmusalman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=ashrafmusalman&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafmusalman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 <br/><br/>
 
