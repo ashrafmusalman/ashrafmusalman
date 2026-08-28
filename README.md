@@ -15,7 +15,7 @@
 
 ## About
 
-DevOps Engineer based in Ahmedabad, India, working at CleanStart. Since 2025, I've focused on Kubernetes orchestration, event-driven architecture with Kafka and KEDA, Redis-based caching, and CI/CD automation — with an emphasis on production reliability, not just tooling familiarity.
+DevOps Engineer based in Ahmedabad, India , I've focused on Kubernetes orchestration, event-driven architecture with Kafka and KEDA, Redis-based caching, and CI/CD automation — with an emphasis on production reliability, not just tooling familiarity.
 
 <br/>
 
