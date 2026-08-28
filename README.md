@@ -53,7 +53,7 @@ DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, 
 
 **Observability**
 <br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
 **Operating Systems & Networking**
 <br/>
