@@ -33,59 +33,62 @@ DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, 
 
 ## Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td valign="top" align="center" width="33%">
 
 **Containers & Orchestration**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
 
-**Cloud & Infrastructure as Code**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
-
-**Event-Driven & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mysql" />
+<br/><br/>
 
 **CI/CD & Version Control**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git" />
 
+</td>
+<td valign="top" align="center" width="33%">
+
+**Cloud & Infrastructure as Code**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+
+<br/><br/>
+
 **Observability**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
 
-**Operating Systems & Networking**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,nginx,vim" />
-<br/>
-<sub>Process management, systemd, TCP/IP, DNS, VPC networking, security groups</sub>
+</td>
+<td valign="top" align="center" width="33%">
 
-**Scripting & Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,bash" />
+**Event-Driven & Data**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mysql" />
 
-</div>
+<br/><br/>
+
+**OS, Networking & Scripting**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,python,bash" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## Pinned Projects
 
-<div align="center">
-
-[![AiFarming](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=AiFarming&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/AiFarming)
-[![ASHRAF_FOOD](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=ASHRAF_FOOD&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/ASHRAF_FOOD)
-
-[![django-notes-app](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=django-notes-app&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/django-notes-app)
-[![Doctor-Appoint-Ment](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Doctor-Appoint-Ment&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Doctor-Appoint-Ment)
-
-[![Hospital-Management-](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Hospital-Management-&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Hospital-Management-)
-[![NewsApp](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=NewsApp&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/NewsApp)
-
-[![NOTES-APP](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=NOTES-APP&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/NOTES-APP)
-[![python-flask-cicd](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=python-flask-cicd&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/python-flask-cicd)
-
-</div>
+- [AiFarming](https://github.com/ashrafmusalman/AiFarming)
+- [ASHRAF_FOOD](https://github.com/ashrafmusalman/ASHRAF_FOOD)
+- [django-notes-app](https://github.com/ashrafmusalman/django-notes-app)
+- [Doctor-Appoint-Ment](https://github.com/ashrafmusalman/Doctor-Appoint-Ment)
+- [Hospital-Management-](https://github.com/ashrafmusalman/Hospital-Management-)
+- [NewsApp](https://github.com/ashrafmusalman/NewsApp)
+- [NOTES-APP](https://github.com/ashrafmusalman/NOTES-APP)
+- [python-flask-cicd](https://github.com/ashrafmusalman/python-flask-cicd)
 
 <br/>
 
