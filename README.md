@@ -82,13 +82,7 @@ DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, 
 ## Pinned Projects
 
 - [AiFarming](https://github.com/ashrafmusalman/AiFarming)
-- [ASHRAF_FOOD](https://github.com/ashrafmusalman/ASHRAF_FOOD)
-- [django-notes-app](https://github.com/ashrafmusalman/django-notes-app)
-- [Doctor-Appoint-Ment](https://github.com/ashrafmusalman/Doctor-Appoint-Ment)
 - [Hospital-Management-](https://github.com/ashrafmusalman/Hospital-Management-)
-- [NewsApp](https://github.com/ashrafmusalman/NewsApp)
-- [NOTES-APP](https://github.com/ashrafmusalman/NOTES-APP)
-- [python-flask-cicd](https://github.com/ashrafmusalman/python-flask-cicd)
 
 <br/>
 
