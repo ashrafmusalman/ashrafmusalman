@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Ashraf%20Ali%20Musalman&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%40%20CleanStart&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Ashraf%20Ali%20Musalman&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Kubernetes+%7C+Kafka+%7C+Redis+%7C+KEDA+%7C+Linux;Building+production-grade+infrastructure+skills+since+2025" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Kubernetes+%7C+Kafka+%7C+Redis+%7C+KEDA+%7C+Linux;Building+production-grade+infrastructure+skills" alt="Typing SVG"/>
 
 <br/>
 
@@ -15,11 +15,11 @@
 
 ## About
 
-DevOps Engineer based in Ahmedabad, India , I've focused on Kubernetes orchestration, event-driven architecture with Kafka and KEDA, Redis-based caching, and CI/CD automation — with an emphasis on production reliability, not just tooling familiarity.
+DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, event-driven architecture with Kafka and KEDA, Redis-based caching, and CI/CD automation — with an emphasis on production reliability, not just tooling familiarity.
 
 <br/>
 
-## 2025–2026 Focus
+## Focus Areas
 
 | Area | What I've worked on |
 |---|---|
@@ -69,17 +69,23 @@ DevOps Engineer based in Ahmedabad, India , I've focused on Kubernetes orchestra
 
 <br/>
 
-## Projects
+## Pinned Projects
 
-> Fill this table with real, linked repositories only. An unlinked row is a claim with no evidence — leave it out until it exists.
+<div align="center">
 
-| Project | Demonstrates | Status |
-|---|---|---|
-| _(repo name)_ | _(what it proves)_ | _(link when ready)_ |
+[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/REPO_NAME_1)
+[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/REPO_NAME_2)
+
+[![Project Three](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=REPO_NAME_3&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/REPO_NAME_3)
+[![Project Four](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=REPO_NAME_4&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/REPO_NAME_4)
+
+</div>
+
+> Replace `REPO_NAME_1` through `REPO_NAME_4` with your actual repo names (case-sensitive, exact match). Each card auto-pulls the repo's description, language, and stars — no manual editing needed once the name is correct. Remove any card for a project that doesn't exist yet.
 
 <br/>
 
-## Activity (2025–2026)
+## Activity
 
 <div align="center">
 
