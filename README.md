@@ -118,13 +118,6 @@ GitHub Actions / Jenkins pipelines, ArgoCD-based GitOps, Linux process managemen
 
 <br/>
 
-## Projects
-- [Hospital-Management-](https://github.com/ashrafmusalman/Hospital-Management-)
-- [AiFarming](https://github.com/ashrafmusalman/AiFarming)
-
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
