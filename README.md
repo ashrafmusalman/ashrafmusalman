@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Ashraf%20Ali%20Musalman&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Ashraf%20Ali%20Musalman&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%C2%B7%20Ahmedabad,%20India&descAlignY=52&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Kubernetes+%7C+Kafka+%7C+Redis+%7C+KEDA+%7C+Linux;Building+production-grade+infrastructure+skills" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Kubernetes+%C2%B7+Kafka+%C2%B7+Redis+%C2%B7+KEDA+%C2%B7+Terraform;I+build+infrastructure+that+survives+production;Currently%3A+shipping+a+GitOps+pipeline+end-to-end" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/ashraf-musalman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ashraf.musalman.ali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ashraf-musalman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ashraf.musalman.ali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ashrafmusalman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -15,63 +16,40 @@
 
 ## About
 
-DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, event-driven architecture with Kafka and KEDA, Redis-based caching, and CI/CD automation — with an emphasis on production reliability, not just tooling familiarity.
+DevOps Engineer focused on Kubernetes orchestration, event-driven architecture with Kafka and KEDA, Redis-based caching, and CI/CD automation. I care more about what happens after `terraform apply` than the apply itself — reliability, observability, and the boring failure modes nobody diagrams.
+
+```text
+const ashraf = {
+    role:      "DevOps Engineer",
+    based_in:  "Ahmedabad, India",
+    focus:     ["Kubernetes", "Kafka", "Redis", "KEDA", "Terraform"],
+    currently: "shipping a Jenkins → ArgoCD GitOps pipeline on AWS",
+    mantra:    "if it isn't monitored, it isn't done",
+};
+```
 
 <br/>
 
 ## Focus Areas
 
-| Area | What I've worked on |
-|---|---|
-| **Container Orchestration** | Kubernetes core objects, admission control (Kyverno), local cluster operation with kind/minikube |
-| **Event-Driven Systems** | Kafka architecture and replication, KEDA-based autoscaling on Kafka/SQS triggers |
-| **Caching & Data** | Redis data structures, persistence, clustering, and caching patterns |
-| **CI/CD** | GitHub Actions pipelines, ArgoCD-based GitOps deployment |
-| **Systems Fundamentals** | Linux process management, OS-level troubleshooting |
-
-<br/>
-
-## Stack
-
-<table align="center">
+<table>
 <tr>
-<td valign="top" align="center" width="33%">
+<td width="50%" valign="top">
 
-**Containers & Orchestration**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+**Container Orchestration**
+Kubernetes core objects, admission control with Kyverno, local cluster operation with kind/minikube.
 
-<br/><br/>
-
-**CI/CD & Version Control**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git" />
+**Event-Driven Systems**
+Kafka architecture and replication, KEDA-based autoscaling on Kafka/SQS triggers.
 
 </td>
-<td valign="top" align="center" width="33%">
+<td width="50%" valign="top">
 
-**Cloud & Infrastructure as Code**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+**Caching & Data**
+Redis data structures, persistence, clustering, and caching patterns.
 
-<br/><br/>
-
-**Observability**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
-
-</td>
-<td valign="top" align="center" width="33%">
-
-**Event-Driven & Data**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mysql" />
-
-<br/><br/>
-
-**OS, Networking & Scripting**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,nginx,python,bash" />
+**CI/CD & Systems**
+GitHub Actions / Jenkins pipelines, ArgoCD-based GitOps, Linux process management and OS-level troubleshooting.
 
 </td>
 </tr>
@@ -79,32 +57,100 @@ DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, 
 
 <br/>
 
-## Pinned Projects
+## Stack
 
-- [AiFarming](https://github.com/ashrafmusalman/AiFarming)
-- [Hospital-Management-](https://github.com/ashrafmusalman/Hospital-Management-)
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="16.6%">
+
+**Containers**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+
+</td>
+<td align="center" width="16.6%">
+
+**Cloud & IaC**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+
+</td>
+<td align="center" width="16.6%">
+
+**Event-Driven**
+<br/>
+<img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mysql" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="16.6%">
+
+**CI/CD**
+<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git" />
+
+</td>
+<td align="center" width="16.6%">
+
+**Observability**
+<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+
+</td>
+<td align="center" width="16.6%">
+
+**OS & Scripting**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,python,bash" />
+
+</td>
+</tr>
+</table>
+
+<sub>Process management · systemd · TCP/IP · DNS · VPC networking · security groups</sub>
+
+</div>
 
 <br/>
 
-## Activity
+## Pinned Projects
 
 <div align="center">
+
+[![AiFarming](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=AiFarming&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/AiFarming)
+[![Doctor-Appoint-Ment](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Doctor-Appoint-Ment&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Doctor-Appoint-Ment)
+
+[![Hospital-Management-](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Hospital-Management-&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Hospital-Management-)
+[![python-flask-cicd](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=python-flask-cicd&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/python-flask-cicd)
+
+<sub><a href="https://github.com/ashrafmusalman?tab=repositories">→ view all repositories</a></sub>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashrafmusalman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=ashrafmusalman&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafmusalman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<br/><br/>
 
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/ashrafmusalman/ashrafmusalman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 <!--END_SECTION:snake-->
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashrafmusalman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
-<img src="https://streak-stats.demolab.com/?user=ashrafmusalman&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
 </div>
