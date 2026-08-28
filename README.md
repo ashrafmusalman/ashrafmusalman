@@ -71,15 +71,21 @@ DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, 
 
 ## Pinned Projects
 
-<!--START_SECTION:pinned-->
 <div align="center">
 
-_This section updates automatically after the GitHub Action runs — see setup below._
+[![AiFarming](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=AiFarming&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/AiFarming)
+[![ASHRAF_FOOD](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=ASHRAF_FOOD&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/ASHRAF_FOOD)
+
+[![django-notes-app](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=django-notes-app&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/django-notes-app)
+[![Doctor-Appoint-Ment](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Doctor-Appoint-Ment&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Doctor-Appoint-Ment)
+
+[![Hospital-Management-](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Hospital-Management-&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Hospital-Management-)
+[![NewsApp](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=NewsApp&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/NewsApp)
+
+[![NOTES-APP](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=NOTES-APP&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/NOTES-APP)
+[![python-flask-cicd](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=python-flask-cicd&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/python-flask-cicd)
 
 </div>
-<!--END_SECTION:pinned-->
-
-> This section auto-lists every one of your public, non-fork repos by exact name via GitHub Actions — no manual repo names, no picking. Runs daily and on every push.
 
 <br/>
 
