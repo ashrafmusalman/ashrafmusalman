@@ -118,10 +118,10 @@ GitHub Actions / Jenkins pipelines, ArgoCD-based GitOps, Linux process managemen
 
 <br/>
 
-## Pinned Projects
-
-- [AiFarming](https://github.com/ashrafmusalman/AiFarming)
+## Projects
 - [Hospital-Management-](https://github.com/ashrafmusalman/Hospital-Management-)
+- [AiFarming](https://github.com/ashrafmusalman/AiFarming)
+
 
 <br/>
 
