@@ -73,15 +73,15 @@ DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, 
 
 <div align="center">
 
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/REPO_NAME_1)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/REPO_NAME_2)
+[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=AiFarming&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/AiFarming)
+[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Hospital-Management-&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Hospital-Management-)
 
-[![Project Three](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=REPO_NAME_3&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/REPO_NAME_3)
-[![Project Four](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=REPO_NAME_4&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/REPO_NAME_4)
+[![Project Three](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=python-flask-cicd&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/python-flask-cicd)
+[![Project Four](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=django-notes-app&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/django-notes-app)
 
 </div>
 
-> Replace `REPO_NAME_1` through `REPO_NAME_4` with your actual repo names (case-sensitive, exact match). Each card auto-pulls the repo's description, language, and stars — no manual editing needed once the name is correct. Remove any card for a project that doesn't exist yet.
+> Cards auto-pull each repo's description, language, and stars from GitHub — no manual editing needed. Swap any of the four repo names above if you'd rather feature a different project.
 
 <br/>
 
