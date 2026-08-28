@@ -53,7 +53,7 @@ DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, 
 
 **Observability**
 <br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
 
 **Operating Systems & Networking**
 <br/>
@@ -71,17 +71,15 @@ DevOps Engineer based in Ahmedabad, India. Focused on Kubernetes orchestration, 
 
 ## Pinned Projects
 
+<!--START_SECTION:pinned-->
 <div align="center">
 
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=AiFarming&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/AiFarming)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=Hospital-Management-&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/Hospital-Management-)
-
-[![Project Three](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=python-flask-cicd&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/python-flask-cicd)
-[![Project Four](https://github-readme-stats.vercel.app/api/pin/?username=ashrafmusalman&repo=django-notes-app&theme=tokyonight&hide_border=true)](https://github.com/ashrafmusalman/django-notes-app)
+_This section updates automatically after the GitHub Action runs — see setup below._
 
 </div>
+<!--END_SECTION:pinned-->
 
-> Cards auto-pull each repo's description, language, and stars from GitHub — no manual editing needed. Swap any of the four repo names above if you'd rather feature a different project.
+> This section auto-lists every one of your public, non-fork repos by exact name via GitHub Actions — no manual repo names, no picking. Runs daily and on every push.
 
 <br/>
 
