@@ -1,89 +1,166 @@
-![logo](https://github.com/ashrafmusalman/ashrafmusalman/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png)
+<div align="center">
 
-<h3 align="center">🚀 DevOps Engineer | 🔧 Kubernetes • Kafka • Redis • Cloud Infrastructure</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ashraf%20Ali%20Musalman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Kubernetes%20%C2%B7%20Kafka%20%C2%B7%20Redis%20%C2%B7%20Cloud%20Infrastructure&descAlignY=58&descSize=18" width="100%"/>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=2EA3F7&center=true&vCenter=true&width=650&lines=Building+reliable%2C+scalable+production+systems;Kubernetes+%7C+Kafka+%7C+Redis+%7C+KEDA+%7C+Linux;Currently%3A+DevOps+Engineer+%40+CleanStart" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafmusalman&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafmusalman" /> </p>
+<br/>
 
-- 💼 DevOps Engineer @ CleanStart, building toward production-grade infrastructure expertise
-- 🔭 Currently deep in **Kubernetes, Kafka, KEDA, Redis, CI/CD, and Observability**
-- 🧠 Focused on real production concerns — failure modes, scaling, HA, security, and incident response
-- 🌱 Practicing hands-on with Docker, kind/minikube, Terraform, and AWS
-- 📍 Based in Ahmedabad, Gujarat, India
+<img src="https://komarev.com/ghpvc/?username=ashrafmusalman&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/ashrafmusalman?label=Followers&style=for-the-badge&color=2563eb" alt="followers"/>
+<a href="https://linkedin.com/in/ashraf-musalman"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br/>
+
+## 👋 About Me
+
+I'm a **DevOps Engineer** based in Ahmedabad, India, focused on the infrastructure layer that keeps production systems reliable at scale — orchestration, event-driven architecture, caching, and observability.
+
+```yaml
+role: DevOps Engineer
+company: CleanStart
+location: Ahmedabad, Gujarat, India
+focus:
+  - Kubernetes & container orchestration
+  - Event-driven systems (Kafka, KEDA)
+  - Caching & distributed data (Redis)
+  - CI/CD & GitOps automation
+  - Observability & production reliability
+currently_learning:
+  - Multi-region disaster recovery patterns
+  - Advanced Kubernetes security (Kyverno, OPA)
+  - Distributed systems failure engineering
+```
+
+<br/>
+
+## 🧰 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Containers & Orchestration**
-- Docker, Kubernetes, Helm, containerd
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
 
-**Cloud**
-- AWS (EC2, EKS, MSK, SQS, CloudFront, IAM), basics of GCP & Azure
+**Cloud & IaC**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
 
-**Infrastructure as Code**
-- Terraform, Ansible
+</td>
+<td valign="top" width="33%">
+
+**Messaging & Event-Driven**
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/KEDA-3F51B5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 **CI/CD & GitOps**
-- GitHub Actions, Jenkins, ArgoCD
+<br/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
 
-**Messaging & Event-Driven Systems**
-- Apache Kafka, KEDA (event-driven autoscaling), RabbitMQ (basics)
-
-**Caching & Data Stores**
-- Redis, PostgreSQL, MySQL
+</td>
+<td valign="top" width="33%">
 
 **Observability**
-- Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), OpenTelemetry
+<br/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 
-**Operating Systems & Scripting**
-- Linux (RHEL/Ubuntu), Bash, Python
+**Core & Languages**
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 
-**Networking & Security**
-- Nginx, TLS/SSL, VPC networking, RBAC, IAM policies
+</td>
+</tr>
+</table>
 
-**Version Control & Collaboration**
-- Git, GitHub, Postman
+<br/>
 
----
+## 🏗️ Featured Infrastructure Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashraf-musalman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraf-musalman" height="30" width="40" /></a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### 🔄 KEDA + Kafka Autoscaling Lab
+Event-driven autoscaling based on Kafka consumer lag, with HA and failure-mode testing on a local kind cluster.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="40" height="40"/></a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
-<a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/></a>
-</p>
+`Kubernetes` `Kafka` `KEDA` `kind`
 
----
+</td>
+<td width="50%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafmusalman&show_icons=true&locale=en&layout=compact" alt="ashrafmusalman" /></p>
+### ⚡ Redis Caching & Coordination Demo
+Cache-aside patterns, distributed locking, and Redis Streams for coordination between services.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafmusalman&show_icons=true&locale=en" alt="ashrafmusalman" /></p>
+`Redis` `Docker` `Distributed Systems`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafmusalman&" alt="ashrafmusalman" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ Kubernetes Policy Enforcement
+Admission control and security guardrails using Kyverno on a multi-node cluster.
+
+`Kubernetes` `Kyverno` `Security`
+
+</td>
+<td width="50%">
+
+### 🚀 GitOps CI/CD Pipeline
+Automated deployment pipeline: GitHub Actions builds → ArgoCD syncs to cluster, with rollback strategy.
+
+`GitHub Actions` `ArgoCD` `GitOps`
+
+</td>
+</tr>
+</table>
+
+> Replace the placeholders above with links to your actual repos as you push them — this table is usually the first thing a technical interviewer reads.
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashrafmusalman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafmusalman&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafmusalman&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafmusalman&theme=tokyo-night&hide_border=true" width="98%"/>
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ashraf-musalman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ashraf.musalman.ali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Reliability is a feature. Uptime is earned, not assumed."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
